@@ -15,15 +15,24 @@
     "members": ["anko9801"]
   },
   {
-    "name": "deploy",
+    "name": "frog4096",
     "passwd": "",
-    "gid": 10000,
-    "members": ["anko9801"]
+    "gecos": "",
+    "dir": "/home/frog4096",
+    "shell": "/bin/bash",
+    "uid": 20002,
+    "gid": 20002
   },
   {
     "name": "frog4096",
     "passwd": "",
     "gid": 20002,
     "members": ["frog4096"]
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gid": 10000,
+    "members": ["anko9801"]
   }
 ]
