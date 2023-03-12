@@ -33,6 +33,9 @@
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["anko9801"]
+    "members": [
+      "anko9801",
+      "frog4096"
+  ]
   }
 ]
