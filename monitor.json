@@ -19,5 +19,11 @@
     "passwd": "",
     "gid": 10000,
     "members": ["anko9801"]
+  },
+  {
+    "name": "frog4096",
+    "passwd": "",
+    "gid": 20002,
+    "members": ["frog4096"]
   }
 ]
