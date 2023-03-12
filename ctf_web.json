@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "name": "anko9801",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/anko9801",
+    "shell": "/bin/bash",
+    "uid": 20000,
+    "gid": 20000
+  },
+  {
+    "name": "anko9801",
+    "passwd": "",
+    "gid": 20000,
+    "members": ["anko9801"]
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gid": 10000,
+    "members": ["anko9801"]
+  }
+]
