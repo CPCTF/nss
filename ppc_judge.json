@@ -30,12 +30,24 @@
     "members": ["iChemy"]
   },
   {
+    "name": "frog4096",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/frog4096",
+    "shell": "/bin/bash",
+    "uid": 20002,
+    "gid": 20002
+  },
+  {
+    "name": "frog4096",
+    "passwd": "",
+    "gid": 20002,
+    "members": ["frog4096"]
+  },
+  {
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": [
-      "anko9801", 
-      "iChemy"
-    ]
+    "members": ["anko9801", "iChemy", "frog4096"]
   }
 ]
