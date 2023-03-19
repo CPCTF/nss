@@ -45,9 +45,24 @@
     "members": ["frog4096"]
   },
   {
+    "name": "kamecha",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/kamecha",
+    "shell": "/bin/bash",
+    "uid": 20003,
+    "gid": 20003
+  },
+  {
+    "name": "kamecha",
+    "passwd": "",
+    "gid": 20003,
+    "members": ["kamecha"]
+  },
+  {
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["anko9801", "iChemy", "frog4096"]
+    "members": ["anko9801", "iChemy", "frog4096", "kamecha"]
   }
 ]
