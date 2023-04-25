@@ -60,9 +60,24 @@
     "members": ["kamecha"]
   },
   {
+    "name": "Nagarei",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/Nagarei",
+    "shell": "/bin/bash",
+    "uid": 20004,
+    "gid": 20004
+  },
+  {
+    "name": "Nagarei",
+    "passwd": "",
+    "gid": 20004,
+    "members": ["Nagarei"]
+  },
+  {
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["anko9801", "iChemy", "frog4096", "kamecha"]
+    "members": ["anko9801", "iChemy", "frog4096", "kamecha", "Nagarei"]
   }
 ]
