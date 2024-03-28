@@ -15,69 +15,54 @@
     "members": ["anko9801"]
   },
   {
-    "name": "iChemy",
+    "name": "ikura-hamu",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/iChemy",
+    "dir": "/home/ikura-hamu",
     "shell": "/bin/bash",
     "uid": 20001,
     "gid": 20001
   },
   {
-    "name": "iChemy",
+    "name": "ikura-hamu",
     "passwd": "",
     "gid": 20001,
-    "members": ["iChemy"]
+    "members": ["ikura-hamu"]
   },
   {
-    "name": "frog4096",
+    "name": "alter334",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/frog4096",
+    "dir": "/home/alter334",
     "shell": "/bin/bash",
     "uid": 20002,
     "gid": 20002
   },
   {
-    "name": "frog4096",
+    "name": "alter334",
     "passwd": "",
     "gid": 20002,
-    "members": ["frog4096"]
+    "members": ["alter334"]
   },
   {
-    "name": "kamecha",
+    "name": "pirosiki197",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/kamecha",
+    "dir": "/home/pirosiki197",
     "shell": "/bin/bash",
     "uid": 20003,
     "gid": 20003
   },
   {
-    "name": "kamecha",
+    "name": "pirosiki197",
     "passwd": "",
     "gid": 20003,
-    "members": ["kamecha"]
-  },
-  {
-    "name": "Nagarei",
-    "passwd": "",
-    "gecos": "",
-    "dir": "/home/Nagarei",
-    "shell": "/bin/bash",
-    "uid": 20004,
-    "gid": 20004
-  },
-  {
-    "name": "Nagarei",
-    "passwd": "",
-    "gid": 20004,
-    "members": ["Nagarei"]
+    "members": ["pirosiki197"]
   },
   {
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["anko9801", "iChemy", "frog4096", "kamecha", "Nagarei"]
+    "members": ["anko9801", "ikura-hamu", "alter334", "pirosiki197"]
   }
 ]
