@@ -1,18 +1,18 @@
 [
   {
-    "name": "anko9801",
+    "name": "Takeno-hito",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/anko9801",
+    "dir": "/home/Takeno-hito",
     "shell": "/bin/bash",
     "uid": 20000,
     "gid": 20000
   },
   {
-    "name": "anko9801",
+    "name": "Takeno-hito",
     "passwd": "",
     "gid": 20000,
-    "members": ["anko9801"]
+    "members": ["Takeno-hito"]
   },
   {
     "name": "ikura-hamu",
@@ -30,39 +30,78 @@
     "members": ["ikura-hamu"]
   },
   {
-    "name": "alter334",
+    "name": "tynswk",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/alter334",
+    "dir": "/home/tynswk",
     "shell": "/bin/bash",
     "uid": 20002,
     "gid": 20002
   },
   {
-    "name": "alter334",
+    "name": "tynswk",
     "passwd": "",
     "gid": 20002,
-    "members": ["alter334"]
+    "members": ["tynswk"]
   },
   {
-    "name": "pirosiki197",
+    "name": "akimon658",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/pirosiki197",
+    "dir": "/home/akimon658",
     "shell": "/bin/bash",
     "uid": 20003,
     "gid": 20003
   },
   {
-    "name": "pirosiki197",
+    "name": "akimon658",
     "passwd": "",
     "gid": 20003,
-    "members": ["pirosiki197"]
+    "members": ["akimon658"]
+  },
+  {
+    "name": "mathsuky",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/mathsuky",
+    "shell": "/bin/bash",
+    "uid": 20004,
+    "gid": 20004
+  },
+  {
+    "name": "mathsuky",
+    "passwd": "",
+    "gid": 20004,
+    "members": ["mathsuky"]
+  },
+  {
+    "name": "aruze-pino",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/aruze-pino",
+    "shell": "/bin/bash",
+    "uid": 20005,
+    "gid": 20005
+  },
+  {
+    "name": "aruze-pino",
+    "passwd": "",
+    "gid": 20005,
+    "members": ["aruze-pino"]
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/deploy",
+    "shell": "/bin/bash",
+    "uid": 20006,
+    "gid": 10000
   },
   {
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["anko9801", "ikura-hamu", "alter334", "pirosiki197"]
+    "members": ["Takeno-hito", "ikura-hamu", "tynswk", "akimon658"]
   }
 ]
