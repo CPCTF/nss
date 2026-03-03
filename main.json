@@ -15,6 +15,21 @@
     "members": ["kentaro1043"]
   },
   {
+    "name": "blancnoir256",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/blancnoir256",
+    "shell": "/bin/bash",
+    "uid": 20002,
+    "gid": 20002
+  },
+  {
+    "name": "blancnoir256",
+    "passwd": "",
+    "gid": 20002,
+    "members": ["blancnoir256"]
+  },
+  {
     "name": "deploy",
     "passwd": "",
     "gecos": "",
@@ -27,6 +42,6 @@
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["kentaro1043"]
+    "members": ["kentaro1043","blancnoir256"]
   }
 ]
