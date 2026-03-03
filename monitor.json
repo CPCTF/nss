@@ -1,20 +1,5 @@
 [
   {
-    "name": "deploy",
-    "passwd": "",
-    "gecos": "",
-    "dir": "/home/deploy",
-    "shell": "/bin/bash",
-    "uid": 20000,
-    "gid": 10000
-  },
-  {
-    "name": "deploy",
-    "passwd": "",
-    "gid": 10000,
-    "members": ["kentaro"]
-  },
-  {
     "name": "kentaro",
     "passwd": "",
     "gecos": "",
@@ -27,6 +12,21 @@
     "name": "kentaro",
     "passwd": "",
     "gid": 20001,
+    "members": ["kentaro"]
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/deploy",
+    "shell": "/bin/bash",
+    "uid": 20000,
+    "gid": 10000
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gid": 10000,
     "members": ["kentaro"]
   }
 ]
