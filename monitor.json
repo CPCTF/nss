@@ -1,18 +1,18 @@
 [
   {
-    "name": "kentaro",
+    "name": "kentaro1043",
     "passwd": "",
     "gecos": "",
-    "dir": "/home/kentaro",
+    "dir": "/home/kentaro1043",
     "shell": "/bin/bash",
     "uid": 20001,
     "gid": 20001
   },
   {
-    "name": "kentaro",
+    "name": "kentaro1043",
     "passwd": "",
     "gid": 20001,
-    "members": ["kentaro"]
+    "members": ["kentaro1043"]
   },
   {
     "name": "deploy",
@@ -27,6 +27,6 @@
     "name": "deploy",
     "passwd": "",
     "gid": 10000,
-    "members": ["kentaro"]
+    "members": ["kentaro1043"]
   }
 ]
