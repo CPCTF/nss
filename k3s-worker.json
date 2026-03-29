@@ -1,0 +1,47 @@
+[
+  {
+    "name": "kentaro1043",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/kentaro1043",
+    "shell": "/bin/bash",
+    "uid": 20001,
+    "gid": 20001
+  },
+  {
+    "name": "kentaro1043",
+    "passwd": "",
+    "gid": 20001,
+    "members": ["kentaro1043"]
+  },
+  {
+    "name": "blancnoir256",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/blancnoir256",
+    "shell": "/bin/bash",
+    "uid": 20002,
+    "gid": 20002
+  },
+  {
+    "name": "blancnoir256",
+    "passwd": "",
+    "gid": 20002,
+    "members": ["blancnoir256"]
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gecos": "",
+    "dir": "/home/deploy",
+    "shell": "/bin/bash",
+    "uid": 20000,
+    "gid": 10000
+  },
+  {
+    "name": "deploy",
+    "passwd": "",
+    "gid": 10000,
+    "members": ["kentaro1043","blancnoir256"]
+  }
+]
